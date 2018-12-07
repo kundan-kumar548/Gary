@@ -68,7 +68,7 @@ class Programmer(models.Model):
     company = models.ForeignKey(Company, on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.name
+        return "{} age {}".format(self.name, self.age)
 
 
 class Users(models.Model):
