@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    # 'example',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -80,6 +81,12 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        # 'NAME': 'wprwpugz',
+        # 'HOST' :'stampy.db.elephantsql.com',
+        # 'USER' :'wprwpugz',
+        # 'PASSWORD': 'Oc3rFFa-MPzI8IVTYi3M8xNe3eOJd1TU',
+        # 'PORT' : '5432',
+
     }
 }
 
