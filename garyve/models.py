@@ -68,7 +68,7 @@ class Programmer(models.Model):
     company = models.ForeignKey(Company, on_delete=models.CASCADE)
 
     def __str__(self):
-        return "{} age {}".format(self.name, self.age)
+        return "{}".format(self.name)
 
 
 class Users(models.Model):
@@ -77,4 +77,4 @@ class Users(models.Model):
     user_email = models.EmailField(default='abc@email.com')
 
     def __str__(self):
-        return "{} email is {}".format(self.user_name, self.user_email)
+        return "{}".format(self.user_name)
