@@ -1,0 +1,30 @@
+{#extend is used for extends the repeted base effect to all the app eg. header, footer and many more effects #}
+{% extends 'base.html' %}
+{% block content %}
+
+    <h1>
+        Programmers list
+    </h1>
+    <div class="programmer">
+        {% for pro in programmer %}
+            <div class="pro">
+                <h3>{{ pro.name}}</h3>
+                <div>age:{{ pro.age }}</div>
+                <div>email:{{ pro.email }}</div>
+                <div>company:{{ pro.company }}</div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <form method="get" action="" style="margin-left: 200px">
+        <div class="programmer">
+            <label for="search">Search here</label>
+            <select id = "search">
+                {% for pro in programmer %}
+                    <option>{{pro.email}}</option>
+                {% endfor %}
+            </select>
+            <button>submit</button>
+        </div>
+    </form>
+{% endblock %}

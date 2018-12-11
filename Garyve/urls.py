@@ -18,11 +18,12 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url, include
 from garyve.urls import *
+# for static files like CSS,JavaScripts
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     url('garyve/', include('garyve.urls')),
     path('admin/', admin.site.urls),
-    # path('',views.home,name = 'home'),
-    # path('home/', views.home),
-    # path('about/',views.about)
 ]
+
+urlpatterns += staticfiles_urlpatterns()

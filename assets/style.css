@@ -1,0 +1,13 @@
+h3{
+    color: dodgerblue;
+    /*background-image: url(background.png);*/
+    background-repeat: no-repeat;
+}
+body{
+    background-color: lavender;
+}
+h1{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+}

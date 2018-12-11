@@ -61,13 +61,13 @@ class Company(models.Model):
 
 class Programmer(models.Model):
     name = models.CharField(max_length=20, null=True, blank=True)
+    slug = models.SlugField(max_length=50, default='new-pro')
     age = models.IntegerField(default=23)
     email = models.EmailField(default="abc@email.com")
     company = models.ForeignKey(Company, on_delete=models.CASCADE)
 
     def __str__(self):
         return "{}".format(self.name)
-
 
 class Users(models.Model):
     user_name = models.CharField(max_length=20, default='John')
