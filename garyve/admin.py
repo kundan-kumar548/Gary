@@ -10,5 +10,4 @@ admin.site.register(Users)
 # admin.site.register(Author)
 # admin.site.register(Entry)
 # admin.site.register(Post)
-
 # admin.site.register()

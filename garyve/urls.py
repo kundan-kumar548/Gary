@@ -8,5 +8,6 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^home/$',views.home, name='home'),
     url(r'^about/$',views.about, name='about'),
-    url(r'^programmer$',views.programmer_list, name='programmer')
+    url(r'^programmer$',views.programmer_list, name='programmer'),
+    url(r'^(?P<slug>[\w-]+)/$', views.programmer_detail),
 ]
