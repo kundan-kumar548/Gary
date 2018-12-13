@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'garyve',
+    'wing',
 ]
 
 MIDDLEWARE = [
@@ -120,14 +120,14 @@ USE_L10N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
-# site access by /static/file_name.css
+
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR,'assets'),
+    os.path.join(BASE_DIR, 'wing/templates/wing/'),
 )
 
-
+MEDIA_ROOT = os.path.join(BASE_DIR, 'wing/templates/wing/')
+MEDIA_URL = 'wing/templates/wing/image/'

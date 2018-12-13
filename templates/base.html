@@ -1,21 +1,70 @@
-
 {#if you wan to change dir_name from the setting say /static then you should change all the places from where you use static.#}
 {% load static from staticfiles %}
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Programmer</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" ></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href= "{% static 'style.css' %}">
+	<title>Feedi</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href= "{% static 'css/feedi.css' %}">
+
 </head>
-<body class = "container">
+<body>
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle = "collapse" data-target ="#foo" aria-expanded = "false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href="#" class="navbar-brand"><span class="glyphicon glyphicon-flash" aria-hidden="true"></span>Feedi</a>
+			</div>
+
+			<div class="collapse navbar-collapse" id = "foo">
+				<ul class="nav navbar-nav">
+
+					<!-- for dropdown menu -->
+		   			<li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Items<span class="caret"></span></a>
+			            <ul class="dropdown-menu">
+			              <li><a href="#">Grocery</a></li>
+			              <li><a href="#">Vegetables</a></li>
+			              <li><a href="#">Fruits</a></li>
+			              <li><a href="#">Extras</a></li>
+			              <li role="separator" class="divider"></li>
+			              <li><a href="#">Contact</a></li>
+			              <li role="separator" class="divider"></li>
+			              <li><a href="#">Feedback</a></li>
+            			</ul>
+          			</li>
+
+          			<!-- <li><a href="#">Go to</a></li> -->
+          			<form class="navbar-form navbar-left" role = "search">
+				   				<div class="form-group">
+				   					<input type="text" class="form-control" placeholder="Search">
+				   				</div>
+				   				<button type="button" class="btn btn-default">search</button>
+		   					</form>
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#">Order</a></li>
+					<li><a href="#">Checkbox</a></li>
+					<li><a href="#">Sign up</a></li>
+					<li><a href="#">login</a></li>
+				</ul>
+
+			</div>
+		</div>
+	</nav>
+
     <div class="wrapper">
         {% block content %}
         {% endblock %}
     </div>
+
 </body>
 </html>
