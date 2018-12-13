@@ -1,6 +1,4 @@
-from django.db import models, migrations
-from django.conf import settings
-from django.utils import timezone
+from django.db import models
 
 # Create your models here.
 
@@ -8,7 +6,7 @@ from django.utils import timezone
 class Grocery(models.Model):
     name = models.CharField(max_length=20, default=None)
     price = models.FloatField(default=None)
-    image = models.FileField(upload_to='', name=None)
+    image = models.ImageField(default='default.png', blank=True)
 
     def __str__(self):
         return self.name
@@ -17,7 +15,7 @@ class Grocery(models.Model):
 class Vegetable(models.Model):
     name = models.CharField(max_length=20, default=None)
     price = models.FloatField(default=None)
-    image = models.FileField(upload_to='', name=None)
+    image = models.ImageField(default='default.png', blank=True)
 
     def __str__(self):
         return self.name
@@ -26,8 +24,7 @@ class Vegetable(models.Model):
 class Fruit(models.Model):
     name = models.CharField(max_length=20, default=None)
     price = models.FloatField(default=None)
-    image = models.FileField(upload_to='', name=None)
-
+    image = models.ImageField(default='default.png', blank=True)
     def __str__(self):
         return self.name
 
@@ -35,7 +32,7 @@ class Fruit(models.Model):
 class Extras(models.Model):
     name = models.CharField(max_length=20, default=None)
     price = models.FloatField(default=None)
-    image = models.FileField(upload_to='', name=None)
+    image = models.ImageField(default='default.png', blank=True)
 
     def __str__(self):
         return self.name

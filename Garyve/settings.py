@@ -129,5 +129,5 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'wing/templates/wing/'),
 )
 
-MEDIA_ROOT = os.path.join(BASE_DIR, 'wing/templates/wing/')
-MEDIA_URL = 'wing/templates/wing/image/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'wing/templates/wing/image')
+MEDIA_URL = '/wing/templates/wing/image/'

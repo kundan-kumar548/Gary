@@ -2,174 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8b01a5f-8c00-4630-9fb9-278c68ef1a1d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/background1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/gary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/fontawesome-all.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/popuo-box.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/smoothbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/b1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/b2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/b3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/cb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/cbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/cs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/cv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/cw.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/g8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/n1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/n2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/n3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/n4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/t2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/images/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/SmoothScroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery-2.2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery.min.v3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/jquery.vide.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/move-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/responsiveslides.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/js/smoothbox.jquery2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/video/1.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-brands-400.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-brands-400.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-brands-400.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-brands-400.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-brands-400.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-regular-400.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-regular-400.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-regular-400.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-regular-400.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-regular-400.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-solid-900.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-solid-900.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-solid-900.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-solid-900.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/fa-solid-900.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/templates/feedi/webfonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feedi/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0002_auto_20181206_1012.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0003_auto_20181206_1014.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0004_auto_20181206_1018.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0005_auto_20181206_1019.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0006_auto_20181207_0729.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0007_auto_20181207_0932.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0008_auto_20181207_1148.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0009_auto_20181207_1305.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0010_auto_20181207_1317.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0011_auto_20181207_1453.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0012_auto_20181210_0604.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0013_auto_20181210_0858.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0014_auto_20181211_1505.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/0015_auto_20181211_1506.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/fontawesome-all.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/popuo-box.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/smoothbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/garyve_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/garyve_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/b1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/b2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/b3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/cb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/cbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/cs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/cv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/cw.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/g8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/n1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/n2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/n3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/n4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/t1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/t2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/t3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/images/t4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/SmoothScroll.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery-2.2.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery.min.v3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/jquery.vide.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/move-top.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/responsiveslides.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/js/smoothbox.jquery2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/programmer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/video/1.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-brands-400.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-brands-400.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-brands-400.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-brands-400.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-brands-400.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-regular-400.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-regular-400.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-regular-400.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-regular-400.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-regular-400.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-solid-900.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-solid-900.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-solid-900.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-solid-900.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/fa-solid-900.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/templates/garyve/webfonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/garyve/views.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wing/templates/wing/item_detail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Garyve/settings.py" afterPath="$PROJECT_DIR$/Garyve/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Garyve/urls.py" afterPath="$PROJECT_DIR$/Garyve/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wing/models.py" afterPath="$PROJECT_DIR$/wing/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wing/templates/wing/css/feedi.css" afterPath="$PROJECT_DIR$/wing/templates/wing/css/feedi.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wing/templates/wing/gallery.html" afterPath="$PROJECT_DIR$/wing/templates/wing/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wing/urls.py" afterPath="$PROJECT_DIR$/wing/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wing/views.py" afterPath="$PROJECT_DIR$/wing/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -180,6 +21,8 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Garyve$0006_auto_20181207_0729.coverage" NAME="0006_auto_20181207_0729 Coverage Results" MODIFIED="1544173423801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/garyve/migrations" />
+    <SUITE FILE_PATH="coverage/Garyve$0004_auto_20181213_1119.coverage" NAME="0004_auto_20181213_1119 Coverage Results" MODIFIED="1544701235050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wing/migrations" />
+    <SUITE FILE_PATH="coverage/Garyve$0002_auto_20181213_0648.coverage" NAME="0002_auto_20181213_0648 Coverage Results" MODIFIED="1544701105953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wing/migrations" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -211,21 +54,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Garyve/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+            <state relative-caret-position="438">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wing/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="60">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wing/templates/wing/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wing/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wing/templates/wing/item_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="e#198#224#0#HTML" expanded="true" />
+                <marker date="1544714060784" expanded="false" signature="652:670" ph="..." />
+                <marker date="1544714060784" expanded="false" signature="1619:1637" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feedi.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wing/templates/wing/css/feedi.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -234,20 +125,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wing/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Garyve/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="645">
+              <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -300,9 +179,15 @@
         <option value="$PROJECT_DIR$/garyve/admin.py" />
         <option value="$PROJECT_DIR$/garyve/urls.py" />
         <option value="$PROJECT_DIR$/garyve/views.py" />
-        <option value="$PROJECT_DIR$/Garyve/settings.py" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/Garyve/urls.py" />
+        <option value="$PROJECT_DIR$/Garyve/settings.py" />
+        <option value="$PROJECT_DIR$/wing/templates/wing/css/feedi.css" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/wing/models.py" />
+        <option value="$PROJECT_DIR$/wing/urls.py" />
+        <option value="$PROJECT_DIR$/wing/templates/wing/item_detail.html" />
+        <option value="$PROJECT_DIR$/wing/templates/wing/gallery.html" />
+        <option value="$PROJECT_DIR$/wing/views.py" />
       </list>
     </option>
   </component>
@@ -440,6 +325,42 @@
       <module name="Garyve" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/garyve/migrations/0006_auto_20181207_0729.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="0002_auto_20181213_0648" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wing/migrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Garyve" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wing/migrations/0002_auto_20181213_0648.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="0004_auto_20181213_1119" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wing/migrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Garyve" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wing/migrations/0004_auto_20181213_1119.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -705,13 +626,17 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Django server.Garyve" />
       <item index="1" class="java.lang.String" itemvalue="Python.0006_auto_20181207_0729" />
+      <item index="2" class="java.lang.String" itemvalue="Python.0002_auto_20181213_0648" />
+      <item index="3" class="java.lang.String" itemvalue="Python.0004_auto_20181213_1119" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.0006_auto_20181207_0729" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.0004_auto_20181213_1119" />
+        <item index="1" class="java.lang.String" itemvalue="Python.0002_auto_20181213_0648" />
+        <item index="2" class="java.lang.String" itemvalue="Python.0006_auto_20181207_0729" />
       </list>
     </recent_temporary>
   </component>
@@ -741,23 +666,23 @@
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2219697" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21439394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21682848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.25728154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22977346" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -772,110 +697,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Garyve/view.py" />
-    <entry file="file://$PROJECT_DIR$/templates/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Garyve/wink.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/django/shortcuts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates_garyve/about_gary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="7" lean-forward="false" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0008_auto_20181207_1148.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0005_auto_20181206_1019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0006_auto_20181207_0729.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0013_auto_20181210_0858.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0002_auto_20181206_1012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0007_auto_20181207_0932.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-632">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="154" column="40" lean-forward="true" selection-start-line="154" selection-start-column="40" selection-end-line="154" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/garyve/migrations/0002_auto_20181206_1012.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/migrations/0007_auto_20181207_0932.py" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -884,185 +708,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/garyve_about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/background.png" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/garyve_about.html" />
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0009_auto_20181207_1305.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/migrations/0010_auto_20181207_1317.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/gary.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/garyve/migrations/0009_auto_20181207_1305.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/migrations/0010_auto_20181207_1317.py" />
+    <entry file="file://$PROJECT_DIR$/feedi/templates/home.html" />
+    <entry file="file://$PROJECT_DIR$/assets/gary.js" />
+    <entry file="file://$PROJECT_DIR$/feedi/models.py" />
+    <entry file="file://$PROJECT_DIR$/feedi/admin.py" />
     <entry file="file://$PROJECT_DIR$/Garyve/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/tests.py">
+    <entry file="file://$PROJECT_DIR$/feedi/tests.py" />
+    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/garyve_index.html" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/garyve_index.html" />
+    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/js/jquery.min.v3.js" />
+    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/js/easing.js" />
+    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/index.html" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/index.html" />
+    <entry file="file://$PROJECT_DIR$/feedi/apps.py" />
+    <entry file="file://$PROJECT_DIR$/feedi/views.py" />
+    <entry file="file://$PROJECT_DIR$/feedi/urls.py" />
+    <entry file="file://$PROJECT_DIR$/assets/style.css" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/programmer.html" />
+    <entry file="file://$PROJECT_DIR$/garyve/urls.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/tests.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/models.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/apps.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/admin.py" />
+    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/gallery.html" />
+    <entry file="file://$PROJECT_DIR$/garyve/views.py" />
+    <entry file="file://$PROJECT_DIR$/wing/migrations/0002_auto_20181213_0648.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/garyve_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/garyve_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/js/jquery.min.v3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/js/easing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/templates/feedi/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feedi/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/programmer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1075,6 +766,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wing/migrations/0003_delete_gallery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/migrations/0002_auto_20181213_1139.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Garyve/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1083,92 +816,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/templates/garyve/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/garyve/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Garyve/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="285">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/templates/wing/css/feedi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Garyve/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="870">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wing/templates/wing/item_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#198#224#0#HTML" expanded="true" />
+            <marker date="1544714060784" expanded="false" signature="652:670" ph="..." />
+            <marker date="1544714060784" expanded="false" signature="1619:1637" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wing/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="645">
+          <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Garyve/settings.py">
+    <entry file="file://$PROJECT_DIR$/wing/templates/wing/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="50" column="38" lean-forward="false" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
           <folding />
         </state>
       </provider>

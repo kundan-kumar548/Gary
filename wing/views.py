@@ -11,3 +11,14 @@ def home(request):
                                                  'fruit': fruit,
                                                  'vegetable': vegetable,
                                                  'extras': extras})
+
+
+def info(request):
+    gro = Grocery.objects.all()
+    veg = Vegetable.objects.all()
+    fru = Fruit.objects.all()
+    extras = Extras.objects.all()
+    return render(request, 'wing/item_detail.html', {'grocery': gro,
+                                                     'fruit': fru,
+                                                     'vegetable': veg,
+                                                     'extras': extras})

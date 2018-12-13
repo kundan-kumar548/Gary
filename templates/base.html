@@ -5,6 +5,7 @@
 <head>
 	<title>Feedi</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href= "{% static 'css/feedi.css' %}">
@@ -25,7 +26,6 @@
 
 			<div class="collapse navbar-collapse" id = "foo">
 				<ul class="nav navbar-nav">
-
 					<!-- for dropdown menu -->
 		   			<li class="dropdown">
 			            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Items<span class="caret"></span></a>
@@ -47,7 +47,7 @@
 				   					<input type="text" class="form-control" placeholder="Search">
 				   				</div>
 				   				<button type="button" class="btn btn-default">search</button>
-		   					</form>
+                    </form>
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
@@ -65,6 +65,95 @@
         {% block content %}
         {% endblock %}
     </div>
+    <!-- Footer -->
+    <hr>
+    <footer class="page-footer font-small blue-grey lighten-5" style="background-color:#21d192;  ">
 
+        <!-- Footer Links -->
+        <div class="container text-center text-md-left mt-5">
+
+          <!-- Grid row -->
+            <div class="row mt-3 dark-grey-text">
+
+            <!-- Grid column -->
+                <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
+
+              <!-- Content -->
+                      <h4 class="font-weight-bold" style="color: tomato">Feedi</h4>
+                      <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                      <p>Here, You will get everything for your daily file goods and grocery items at your doorstep.
+                      Where are you? order Now.</p>
+
+                </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+              <!-- Links -->
+                  <h6 class="text-uppercase font-weight-bold">Go to</h6>
+                  <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                      <p><a class="dark-grey-text" href="#!">Clients</a></p>
+                      <p><a class="dark-grey-text" href="#!">Sellers</a></p>
+                      <p><a class="dark-grey-text" href="#!">Ninati</a></p>
+                      <p><a class="dark-grey-text" href="#!">Womigo</a></p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+              <!-- Links -->
+                  <h6 class="text-uppercase font-weight-bold">Support</h6>
+                  <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                      <p><a class="dark-grey-text" href="#!">Blog</a></p>
+                      <p><a class="dark-grey-text" href="#!">Report a bug</a></p>
+                      <p><a class="dark-grey-text" href="#!">Get help</a></p>
+                      <p><a class="dark-grey-text" href="#!">Common Question</a></p>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                        <h6 class="text-uppercase font-weight-bold">Contact</h6>
+                        <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                        <p><i class="fa fa-home mr-3"></i> C-10,Bora Happy homes, Pimple saudagar, Pune, IN</p>
+                        <p><i class="fa fa-envelope mr-3"></i> kundan.kumar@feedi.com</p>
+                        <p><i class="fa fa-phone mr-3"></i>+91 8797469818</p>
+                        <p><i class="fa fa-print mr-3"></i>+91 9179679818</p>
+            </div>
+            <!-- Grid column -->
+
+          </div>
+          <!-- Grid row -->
+
+        </div>
+        <!-- Footer Links -->
+
+        <div style="background-color:tomato">
+        <!-- Grid row-->
+                <div class="row py-4 d-flex align-items-center">
+
+                    <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+                        <div class="footer-copyright text-center text-black-50 py-3">© 2018 Copyright:
+                            <a class="dark-grey-text" href="#"> Feedi.com</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-7 text-center text-md-right">
+                        <a class="fb-ic"><i class="fab fa-facebook-f fa-2x"></i></a>
+                        <a class="tw-ic"><i class="fab fa-twitter fa-2x"></i></a>
+                        <a class="gplus-ic"><i class="fab fa-google-plus-g fa-2x"></i></a>
+                        <a class="li-ic"><i class="fab fa-linkedin-in fa-2x"></i></a>
+                        <a class="ins-ic"><i class="fab fa-instagram fa-2x"></i></a>
+                    </div>
+                </div>
+        <!-- Grid row-->
+
+            </div>
+        </div>
+
+    </footer>
+      <!-- Footer -->
 </body>
 </html>

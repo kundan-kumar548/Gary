@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% block content %}
+    <div class="detail">
+    {% for v in vegetable %}
+        <div class="v">
+            <div class="col-lg-6">
+                <div class="thumbnail" style="text-align: center">
+                    <img src="{{ v.image.url }}">
+                    <a href="#">{{ v.name }}</a>
+                    <div>
+                        <a href="#">{{ v.price }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{#    {% for g in grocery %}#}
+{#        <div class="v">#}
+{#            <div class="col-lg-6">#}
+{#                <div class="thumbnail" style="text-align: center">#}
+{#                    <img src="{{ g.image.url }}">#}
+{#                    <a href="#">{{ g.name }}</a>#}
+{#                    <div>#}
+{#                        <a href="#">{{ g.price }}</a>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#        </div>#}
+{#    {% endfor %}#}
+{#    {% for f in fruit %}#}
+{#        <div class="v">#}
+{#            <div class="col-lg-6">#}
+{#                <div class="thumbnail" style="text-align: center">#}
+{#                    <img src="{{ f.image.url }}">#}
+{#                    <a href="#">{{ f.name }}</a>#}
+{#                    <div>#}
+{#                        <a href="#">{{ f.price }}</a>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#        </div>#}
+{#    {% endfor %}#}
+{#    {% for e in extras %}#}
+{#        <div class="v">#}
+{#            <div class="col-lg-6">#}
+{#                <div class="thumbnail" style="text-align: center">#}
+{#                    <img src="{{ e.image.url }}">#}
+{#                    <a href="#">{{ e.name }}</a>#}
+{#                    <div>#}
+{#                        <a href="#">{{ e.price }}</a>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+{#        </div>#}
+{#    {% endfor %}#}
+    </div>
+{% endblock %}
